@@ -14,20 +14,17 @@ Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos
      - Vídeo da Execução: [https://x.gd/LXZn5]
    
    - Cypress
-     - Link: []
-     - Vídeo da Execução:
+     - Link: [https://github.com/ismaela-c/SAUCEDEMO-CYPRESS]
+     - Vídeo da Execução: [https://www.loom.com/share/ed659bd305ac490f9fe7dbf0fc75bc88]
        
 🔌 **Projetos API**
    - Postman
-     - Link: []
-     - Vídeo da Execução:
-   - API Automation
-     - Link:
-     - Vídeo da Execução:
-
+     - Link: [https://github.com/ismaela-c/PETSTORE]
+        
 📱 Projetos Mobile
-   • Appium
-   • WebdriverIO 
+   - Appium, WebdriverIO
+     - Link: [https://github.com/ismaela-c/CALCULADORA]
+     - Vídeo da Execução: [https://x.gd/Nk11g]
 
 📚 Técnicas de Teste
    • Test Design
