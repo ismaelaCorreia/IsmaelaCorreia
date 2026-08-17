@@ -3,8 +3,6 @@
 
 Atualmente, estou concluindo minha Pós-Graduação em Qualidade e Teste de Software e também realizando o Curso de Formação em Testes de Software da Iterasys, onde venho desenvolvendo conhecimentos práticos em testes manuais e automatizados.
 
-Tenho experiência profissional com controle de qualidade, análise de requisitos, revisão, identificação de inconsistências e atenção aos detalhes, habilidades que considero fundamentais também para a área de QA.
-
 Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos com o objetivo de construir meu portfólio e demonstrar, na prática, minha evolução na área de testes.
 
 --------------------------------------------------------------------------
