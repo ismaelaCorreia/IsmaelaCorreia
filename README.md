@@ -8,22 +8,25 @@ Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos
 --------------------------------------------------------------------------
 🧪 **Projetos Web**
    - Playwright 
-     - Link: [http://github.com/ismaela-c/SAUCEDEMO_PLAYWRIGHT]
-     - Vídeo da Execução: [https://x.gd/LXZn5]
+     - Link: http://github.com/ismaela-c/SAUCEDEMO_PLAYWRIGHT
+     - Vídeo da Execução: https://x.gd/LXZn5
    
    - Cypress
-     - Link: [https://github.com/ismaela-c/SAUCEDEMO-CYPRESS]
-     - Vídeo da Execução: [https://www.loom.com/share/ed659bd305ac490f9fe7dbf0fc75bc88]
+     - Link: https://github.com/ismaela-c/SAUCEDEMO-CYPRESS
+     - Vídeo da Execução: https://www.loom.com/share/ed659bd305ac490f9fe7dbf0fc75bc88
        
 🔌 **Projetos API**
    - Postman
-     - Link: [https://github.com/ismaela-c/PETSTORE]
+     - Link: https://github.com/ismaela-c/PETSTORE
         
 📱 Projetos Mobile
    - Appium, WebdriverIO
-     - Link: [https://github.com/ismaela-c/CALCULADORA]
-     - Vídeo da Execução: [https://x.gd/Nk11g]
+     - Link: https://github.com/ismaela-c/CALCULADORA
+     - Vídeo da Execução: https://x.gd/Nk11g
 
-📚 Técnicas de Teste
-   • Test Design
-   • Casos de Teste
+📚 **Planejamento de Testes**
+   - Análise de Riscos
+
+
+ 📚 **Análise, Modelagem e Implementação de Teste**
+    - Testes Manuais e Exploratórios
