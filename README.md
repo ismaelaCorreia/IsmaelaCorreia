@@ -1,7 +1,7 @@
 # 👩‍💻 QA / Software Testing Portfolio 
  Sou uma profissional em transição de carreira para a área de Qualidade e Testes de Software (QA), buscando transformar minha experiência profissional em uma nova trajetória na tecnologia.
 
-Atualmente, estou concluindo minha Pós-Graduação em Qualidade e Teste de Software e também realizando o Curso de Formação em Testes de Software da Iterasys, onde venho desenvolvendo conhecimentos práticos em testes manuais e automatizados.
+Atualmente, estou concluindo minha Pós-graduação em Engenharia de Qualidade e Teste de Software pelo PUC-Minas e também realizando o Curso de Formação em Testes e QA pela Iterasys, onde venho desenvolvendo conhecimentos práticos em testes manuais e automatizados.
 
 Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos com o objetivo de construir meu portfólio e demonstrar, na prática, minha evolução na área de testes.
 
