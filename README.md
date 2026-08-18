@@ -6,7 +6,7 @@ Atualmente, estou concluindo minha Pós-graduação em Engenharia de Qualidade e
 Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos com o objetivo de construir meu portfólio e demonstrar, na prática, minha evolução na área de testes.
 
 --------------------------------------------------------------------------
-🧪 **Projetos Web**
+## 🧪 **Projetos Web**
    - Playwright 
      - Link: http://github.com/ismaela-c/SAUCEDEMO_PLAYWRIGHT
      - Vídeo da Execução: https://x.gd/LXZn5
@@ -14,19 +14,22 @@ Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos
    - Cypress
      - Link: https://github.com/ismaela-c/SAUCEDEMO-CYPRESS
      - Vídeo da Execução: https://www.loom.com/share/ed659bd305ac490f9fe7dbf0fc75bc88
+
        
-🔌 **Projetos API**
+## 🔌 **Projetos API**
    - Postman
      - Link: https://github.com/ismaela-c/PETSTORE
+
         
-📱 Projetos Mobile
+## 📱 **Projetos Mobile**
    - Appium, WebdriverIO
      - Link: https://github.com/ismaela-c/CALCULADORA
      - Vídeo da Execução: https://x.gd/Nk11g
 
-📚 **Planejamento de Testes**
+
+## 📚 **Planejamento de Testes**
    - Análise de Riscos
 
 
- 📚 **Análise, Modelagem e Implementação de Teste**
-    - Testes Manuais e Exploratórios
+## 📚 **Análise, Modelagem e Implementação de Teste**
+ - Testes Manuais e Exploratórios
