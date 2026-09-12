@@ -35,6 +35,8 @@ Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos
 ## 📚 **Análise, Modelagem e Implementação de Teste**
  - Testes Manuais e Exploratórios
 
+-------------------------------------------------------------------------
+
 # 🎓 Certificados e Currículo 
 - Link: https://github.com/ismaela-c/Certificados
 - Link: https://github.com/ismaela-c/Certificados/blob/main/curriculo_ismaela_QA.pdf
