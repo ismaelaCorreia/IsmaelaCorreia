@@ -5,7 +5,7 @@ Atualmente, estou concluindo minha Pós-graduação em Engenharia de Qualidade e
 
 Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos com o objetivo de construir meu portfólio e demonstrar, na prática, minha evolução na área de testes.
 
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
 ## 🧪 **Projetos Web**
    - Playwright 
      - Link: http://github.com/ismaela-c/SAUCEDEMO_PLAYWRIGHT
