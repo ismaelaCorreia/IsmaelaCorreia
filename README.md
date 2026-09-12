@@ -26,6 +26,7 @@ Este GitHub reúne meus estudos, exercícios e projetos práticos, desenvolvidos
      - Link: https://github.com/ismaela-c/CALCULADORA
      - Vídeo da Execução: https://x.gd/Nk11g
 
+-------------------------------------------------------------------------
 
 ## 📚 **Planejamento de Testes**
    - Análise de Riscos
